@@ -86,4 +86,4 @@ User (report + profile)
 
 ## Demo
 
-[![Watch the demo](https://cdn.loom.com/sessions/thumbnails/bffc287038f6464ea36833f5a8c77cff-with-play.gif)](https://www.loom.com/share/bffc287038f6464ea36833f5a8c77cff)
+▶️ [Watch the demo video](https://www.loom.com/share/bffc287038f6464ea36833f5a8c77cff)
