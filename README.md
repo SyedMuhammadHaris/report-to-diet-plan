@@ -86,4 +86,4 @@ User (report + profile)
 
 ## Demo
 
-▶️ [Watch the demo video](https://www.loom.com/share/bffc287038f6464ea36833f5a8c77cff)
+▶️ <a href="https://www.loom.com/share/bffc287038f6464ea36833f5a8c77cff" target="_blank" rel="noopener noreferrer">Watch the demo video</a>
