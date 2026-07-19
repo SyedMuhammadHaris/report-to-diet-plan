@@ -87,3 +87,14 @@ User (report + profile)
 ## Demo
 
 ▶️ <a href="https://www.loom.com/share/bffc287038f6464ea36833f5a8c77cff" target="_blank" rel="noopener noreferrer">Watch the demo video</a>
+
+### Screenshots
+
+**Upload a report and generate a plan**
+![Upload health report and generate diet plan](screen_shot_one.png)
+
+**Profile summary extracted into the plan**
+![Personalized diet plan user profile summary](screen_shot_two.png)
+
+**Generated meal plan**
+![Generated meal plan with portions and dietary advice](screen_shot_three.png)
