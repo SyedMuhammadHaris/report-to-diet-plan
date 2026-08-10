@@ -9,3 +9,6 @@ wheels/
 # Virtual environments
 .venv
 .env
+
+# RAG vector store
+rag_practice/chroma_db/
